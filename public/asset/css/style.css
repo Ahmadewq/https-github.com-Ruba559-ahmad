@@ -1,0 +1,84 @@
+
+.navbar1{
+    padding: 10px 0px;
+    
+    border-radius: 0px;
+	background-color: rgb(48, 45, 45);
+}
+
+.navbar-header1 .navbar-toggle1 {
+    background-color: rgb(43, 41, 41);
+    color: white;
+    font-size:20px;
+    padding: 5px 10px;
+   
+   
+}
+
+
+
+.span2{
+    color:  rgb(9, 159, 209);
+    font-size: 23px;
+	margin-top: 10px;
+}
+
+.nav-link1 li a{
+    color:white;
+   text-align: center;
+    font-size: 18px;
+}
+.nav-link1 li a:hover{
+  background-color: #eee;
+  color:  rgb(9, 159, 209);
+}
+
+
+ .nav-link.active{
+    color:  rgb(9, 159, 209);
+
+}
+.Admin{
+	border-bottom: 2px solid black;
+	margin-top:20px;
+}
+.Admin p{
+	font-weight: bold;
+	font-size: 23px;
+}
+.part
+{
+	background-color: rgb(255, 255, 255);
+	padding: 30px 20px;
+	padding-top: 10px;
+	margin-top: 20px;
+}
+.new{
+	position: absolute;
+	right:30px;
+     background-color: rgb(9, 159, 209);
+	 color:white;
+	 padding: 2px 10px;
+	 border-radius: 2px;
+	 cursor: pointer;
+	 border-radius: 3px;
+}
+.new:hover{
+	transition: .3s;
+	background-color: black;
+	color:white;
+
+}
+.user{
+	font-weight: bold;
+}
+.number{
+	margin-top: 20px;
+}
+.number p{
+	font-size: 20px;
+	font-weight: bold;
+}
+body{
+	background-color: #eee;
+}
